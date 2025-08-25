@@ -16,9 +16,9 @@ Opción de jugar todas las veces que quieras 🔁.
 
 🕹️ Cómo jugar
 
-Clona este repositorio o descarga el archivo:
+Descarga el archivo:
 
-git clone https://github.com/CarlosDGP96/Juego_Piedra_Papel_Tijera/blob/main/CODIGO%20JUEGO%20PIEDRA%20PAPEL%20TIJERA.py
+https://github.com/CarlosDGP96/Juego_Piedra_Papel_Tijera/blob/main/CODIGO%20JUEGO%20PIEDRA%20PAPEL%20TIJERA.py
 
 
 Asegúrate de tener Python 3 instalado.
